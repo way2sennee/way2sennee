@@ -21,6 +21,7 @@ hosting my own server <br>
 
 <p>
 <img src="https://skillicons.dev/icons?i=discord,figma,gmail,instagram,vscode" />
+  I rarely use Gmail, Framer and VSC tho i use Outlook 
 </p>
 
 ---
