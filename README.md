@@ -19,10 +19,17 @@ hosting my own server <br>
 
 ## 🧰 things i use
 
-<p>
-<img src="https://skillicons.dev/icons?i=discord,figma,gmail,instagram,vscode" />
-  I rarely use Gmail, Framer and VSC tho i use Outlook 
+<p align="center">
+<img src="https://img.icons8.com/color/48/roblox.png"/>
+<img src="https://img.icons8.com/color/48/roblox-studio.png"/>
+<img src="https://img.icons8.com/color/48/chatgpt.png"/>
+<img src="https://img.icons8.com/color/48/instagram-new.png"/>
+<img src="https://img.icons8.com/color/48/tiktok.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png"/>
+<img src="https://img.icons8.com/color/48/adobe-creative-cloud.png"/>
 </p>
+
+<p align="center">xoxo</p>
 
 ---
 
