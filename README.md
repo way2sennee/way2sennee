@@ -1,4 +1,4 @@
-<h1 align="center">hi, i'm srenne welcome to my github</h1>
+<h1 align="center">hi, i'm senne welcome to my github</h1>
 <p align="center">
 hosting my own server <br>
 <i>i like roblox</i>
