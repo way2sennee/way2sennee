@@ -1,6 +1,6 @@
-<h1 align="center">hi, i'm vortex. welcome to my github</h1>
+<h1 align="center">hi, i'm srenne welcome to my github</h1>
 <p align="center">
-not a fullstack developer <br>
+hosting my own server <br>
 <i>i like roblox</i>
 </p>
 
@@ -8,12 +8,12 @@ not a fullstack developer <br>
 
 ## 💬 about me
 
-- writes code ❌
-- fixes bugs ❌
-- creates new bugs 🐛
-- happily uses claude for code ✅
-- this is also made by claude ✅
-- commits directly to main ✅
+- asking ChatGPT to help me with coding ✅
+- Screaming at ChatGPT ✅
+- creating Bugs? ✅
+- Coding? [NO OFCOURSE NOT]
+- I'm a working person cuz yeah who else pays my microsoft 365 subscription?
+- I still go to school
 
 ---
 
@@ -25,17 +25,16 @@ not a fullstack developer <br>
 
 ---
 
-## 🌀 current status
+##  current status
 
-- asking chatgpt for answers what terminal says
-- does discord servers for a group service which i own
-- not available for hire (not as a dev, pls)
+- Learning for Test Seasons
+- Trying to understead Microsoft's Admin Panel
 
 ---
 
 ## 🔗 contact
 
-discord or through a form
+by emailing me. [me@mail.sennetjeeh.lol] if you dm me on discord without being friends be ready froa  ghosting session <3
 
 ---
 
