@@ -35,8 +35,7 @@ hosting my own server <br>
 
 ##  current status
 
-- Learning for Test Seasons
-- Trying to understead Microsoft's Admin Panel
+- chilling
 
 ---
 
