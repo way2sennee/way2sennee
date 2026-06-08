@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm senne welcome to my github</h1>
 <p align="center">
-hosting my own server <br>
+proviing to people.(auth, pterdactyl and more.) <br>
 <i>i like roblox</i>
 </p>
 
@@ -35,7 +35,9 @@ hosting my own server <br>
 
 ##  current status
 
-- chilling
+- stressing
+- working
+- going to school
 
 ---
 
