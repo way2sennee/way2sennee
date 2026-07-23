@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm senne welcome to my github</h1>
 <p align="center">
-proviing to people.(auth, pterdactyl and more.) <br>
+providing to people.(auth, pterdactyl e-mail/inbox and nextlcoud) <br>
 <i>i like roblox</i>
 </p>
 
