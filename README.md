@@ -35,15 +35,15 @@ providing to people.(auth, pterdactyl e-mail/inbox and nextlcoud) <br>
 
 ##  current status
 
-- stressing
 - working
-- going to school
+- chilling
+- being free from school yay
 
 ---
 
 ## 🔗 contact
 
-by emailing me. [me@mail.sennetjeeh.lol] if you dm me on discord without being friends be ready froa  ghosting session <3
+by emailing me. [me@sennetjeeh.lol] or app me via Whatsapp : +31631379031
 
 ---
 
